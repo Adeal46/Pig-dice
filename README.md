@@ -51,3 +51,4 @@ Contact the author at: @adililema3@gmail.com
 # License
 This project is licensed under the MIT license.
 
+Copyright (c) 2018 Adeal46

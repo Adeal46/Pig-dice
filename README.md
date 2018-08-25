@@ -1,7 +1,7 @@
 # Pig-dice
 Pig Dice is a game of luck and intrigue where players roll a die until they get a one or choose to stop and bank their total. First player to bank 100 points wins. {November 2016}
 By {Brad Copenhaver and Jonathan Thom}
-#Description
+# Description
 Specifications
 
 Display a random number between 1 and 6.
@@ -37,17 +37,17 @@ Input: player 2 bank = 101
 Output: Congratulations player 2!
 
 
-#Known Bugs
+# Known Bugs
 Turn total does not display on second roll on easy computer's turn.
 
-#Support and contact details
+# Support and contact details
 Contact the author at: @adililema3@gmail.com
 
-#Technologies Used
+# Technologies Used
 jquery
 Bootstrap
 javascript
 html/css
-#License
+# License
 This project is licensed under the MIT license.
 

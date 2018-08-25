@@ -44,7 +44,7 @@ Turn total does not display on second roll on easy computer's turn.
 Contact the author at: @adililema3@gmail.com
 
 # Technologies Used
-jquery
+*jquery
 Bootstrap
 javascript
 html/css

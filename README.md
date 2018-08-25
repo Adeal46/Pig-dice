@@ -40,6 +40,9 @@ Specifications
 # Known Bugs
 Turn total does not display on second roll on easy computer's turn.
 
+# Visit site
+https://adeal46.github.io/Pig-dice/
+
 # Support and contact details
 Contact the author at: @adililema3@gmail.com
 

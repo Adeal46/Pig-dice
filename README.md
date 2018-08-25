@@ -44,10 +44,10 @@ Turn total does not display on second roll on easy computer's turn.
 Contact the author at: @adililema3@gmail.com
 
 # Technologies Used
-*jquery
-Bootstrap
-javascript
-html/css
+ 1. jquery
+ 2. Bootstrap
+ 3. javascript
+ 4. html/css
 # License
 This project is licensed under the MIT license.
 

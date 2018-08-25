@@ -50,4 +50,4 @@ Contact the author at: @adililema3@gmail.com
  4. html/css
 # License
 This project is licensed under the MIT license.
-
+Copyright (c) 2018 Adeal46
